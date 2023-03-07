@@ -1,4 +1,4 @@
-name: Automerge
+name: Automerge2
 on:
   pull_request:
     types:
